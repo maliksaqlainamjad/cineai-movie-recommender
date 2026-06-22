@@ -1,7 +1,7 @@
 # 🎬 CineAI — Hybrid AI Movie Recommendation System
 
-> **FAST-NUCES Faisalabad | AI 2002 Lab Semester Project**  
-> Built by **Saqlain Amjed** (23F-0537) · BSCS 6th Semester
+> **FAST-NUCES | AI 2002 Lab Semester Project**  
+> Built by **Saqlain Amjed** BSCS 6th Semester
 
 A fully functional Hybrid AI system that recommends movies using six distinct AI techniques — all implemented from scratch. The system takes user preferences as input and runs them through a complete AI pipeline: constraint filtering, graph search, clustering, neural network scoring, heuristic ranking, and optional multi-user decision-making.
 
@@ -160,11 +160,6 @@ Fields: `id, title, genre, year, duration, rating, director, language`
 
 **Saqlain Amjed**  
 BS Computer Science — FAST-NUCES Faisalabad (Batch 2023)  
-Roll No: 23F-0537  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saqlain-amjed-)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/maliksaqlainamjad)
-
 ---
 
 ## 📄 License
