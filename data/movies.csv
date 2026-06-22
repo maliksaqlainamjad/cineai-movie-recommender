@@ -1,0 +1,51 @@
+id,title,genre,year,duration,rating,director,language
+1,The Dark Knight,Action,2008,152,9.0,Christopher Nolan,English
+2,Inception,Sci-Fi,2010,148,8.8,Christopher Nolan,English
+3,Interstellar,Sci-Fi,2014,169,8.6,Christopher Nolan,English
+4,The Shawshank Redemption,Drama,1994,142,9.3,Frank Darabont,English
+5,Forrest Gump,Drama,1994,142,8.8,Robert Zemeckis,English
+6,Pulp Fiction,Crime,1994,154,8.9,Quentin Tarantino,English
+7,The Godfather,Crime,1972,175,9.2,Francis Ford Coppola,English
+8,Avengers Endgame,Action,2019,181,8.4,Russo Brothers,English
+9,Spider-Man No Way Home,Action,2021,148,8.3,Jon Watts,English
+10,Parasite,Thriller,2019,132,8.5,Bong Joon-ho,Korean
+11,Joker,Drama,2019,122,8.4,Todd Phillips,English
+12,1917,War,2019,119,8.3,Sam Mendes,English
+13,Dune,Sci-Fi,2021,155,8.0,Denis Villeneuve,English
+14,The Matrix,Sci-Fi,1999,136,8.7,Wachowski Sisters,English
+15,Gladiator,Action,2000,155,8.5,Ridley Scott,English
+16,The Lion King,Animation,1994,88,8.5,Roger Allers,English
+17,Toy Story,Animation,1995,81,8.3,John Lasseter,English
+18,Finding Nemo,Animation,2003,100,8.1,Andrew Stanton,English
+19,Get Out,Horror,2017,104,7.7,Jordan Peele,English
+20,A Quiet Place,Horror,2018,90,7.5,John Krasinski,English
+21,Hereditary,Horror,2018,127,7.3,Ari Aster,English
+22,Coco,Animation,2017,105,8.4,Lee Unkrich,English
+23,Soul,Animation,2020,100,8.1,Pete Docter,English
+24,Whiplash,Drama,2014,107,8.5,Damien Chazelle,English
+25,La La Land,Romance,2016,128,8.0,Damien Chazelle,English
+26,The Notebook,Romance,2004,123,7.8,Nick Cassavetes,English
+27,Titanic,Romance,1997,194,7.9,James Cameron,English
+28,Pride and Prejudice,Romance,2005,129,7.8,Joe Wright,English
+29,Your Name,Romance,2016,106,8.4,Makoto Shinkai,Japanese
+30,Spirited Away,Animation,2001,125,8.6,Hayao Miyazaki,Japanese
+31,Princess Mononoke,Animation,1997,134,8.4,Hayao Miyazaki,Japanese
+32,Akira,Sci-Fi,1988,124,8.0,Katsuhiro Otomo,Japanese
+33,Old Boy,Thriller,2003,120,8.4,Park Chan-wook,Korean
+34,City of God,Crime,2002,130,8.6,Fernando Meirelles,Portuguese
+35,Pan's Labyrinth,Fantasy,2006,118,8.2,Guillermo del Toro,Spanish
+36,The Grand Budapest Hotel,Comedy,2014,99,8.1,Wes Anderson,English
+37,Knives Out,Mystery,2019,130,7.9,Rian Johnson,English
+38,Gone Girl,Thriller,2014,149,8.1,David Fincher,English
+39,Se7en,Thriller,1995,127,8.6,David Fincher,English
+40,Fight Club,Drama,1999,139,8.8,David Fincher,English
+41,Shutter Island,Thriller,2010,138,8.1,Martin Scorsese,English
+42,The Prestige,Mystery,2006,130,8.5,Christopher Nolan,English
+43,Memento,Mystery,2000,113,8.4,Christopher Nolan,English
+44,Black Swan,Thriller,2010,108,8.0,Darren Aronofsky,English
+45,Requiem for a Dream,Drama,2000,102,8.3,Darren Aronofsky,English
+46,No Country for Old Men,Crime,2007,122,8.2,Coen Brothers,English
+47,Fargo,Crime,1996,98,8.1,Coen Brothers,English
+48,The Big Lebowski,Comedy,1998,117,8.1,Coen Brothers,English
+49,Goodfellas,Crime,1990,146,8.7,Martin Scorsese,English
+50,Taxi Driver,Drama,1976,114,8.2,Martin Scorsese,English
