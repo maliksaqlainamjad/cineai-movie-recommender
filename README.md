@@ -159,7 +159,7 @@ Fields: `id, title, genre, year, duration, rating, director, language`
 ## 👤 Author
 
 **Saqlain Amjed**  
-BS Computer Science — FAST-NUCES Faisalabad (Batch 2023)  
+BS Computer Science — FAST-NUCES (Batch 2023)  
 ---
 
 ## 📄 License
