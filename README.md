@@ -162,8 +162,8 @@ Fields: `id, title, genre, year, duration, rating, director, language`
 BS Computer Science — FAST-NUCES Faisalabad (Batch 2023)  
 Roll No: 23F-0537  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saqlain-amjed-)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/maliksaqlainamjad)
 
 ---
 
